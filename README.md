@@ -1,4 +1,7 @@
 # Self-Driving Car
+<img width="1470" alt="image" src="https://github.com/RayaneLark/Self-driving-car/assets/89400140/564da4f9-5a4a-4dfc-8640-3a26c32ea7b3">
+
+
 ## Overview
 
 This project is a self-driving car simulation implemented in HTML, CSS, and JavaScript. The simulation includes a canvas for car visualization, various markings and editors for creating a virtual environment, as well as scripts for different components such as world, sensors, controls, and the main application.
